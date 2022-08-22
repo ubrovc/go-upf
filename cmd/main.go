@@ -11,7 +11,7 @@ import (
 	"github.com/free5gc/go-upf/internal/logger"
 	upfapp "github.com/free5gc/go-upf/pkg/app"
 	"github.com/free5gc/go-upf/pkg/factory"
-	"github.com/free5gc/util/version"
+	"github.com/ubrovc/util/version"
 )
 
 func main() {

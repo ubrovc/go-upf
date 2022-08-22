@@ -7,7 +7,7 @@ import (
 	formatter "github.com/antonfisher/nested-logrus-formatter"
 	"github.com/sirupsen/logrus"
 
-	logger_util "github.com/free5gc/util/logger"
+	logger_util "github.com/ubrovc/util/logger"
 )
 
 var (
